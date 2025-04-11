@@ -1,5 +1,8 @@
-## Impacts of Ocean Alkalinity Enhancement on the Seasonal Cycle of the CO<sub>2</sub> flux and ocean pCO<sub>2</sub> in European Waters in a low- and a high-emission scenario
+## Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO<sub>2</sub> Air-Sea Gas Exchange and Ocean pCO<sub>2</sub> in European Waters under Low- and High-Emission Scenarios
 
+This repository accompanies this paper : Ciscato, C., Keller, D. P., Mehendale, N., Kemena, T., 2024 (submitted)
+
+### Overview 
 
 A seasonal analysis was performed on five variables, with the objective of defining the impacts of Ocean Alkalinity Enhancement on their monthly (seasonal) cycle. The variables are listed below from drivers to outcome parameters:
 
