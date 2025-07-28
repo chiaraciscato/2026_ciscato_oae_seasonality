@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
-**/lastDecade
+**/last_decade
 **/zoo
 **/npp
 **/alk_mask
+**/SST
