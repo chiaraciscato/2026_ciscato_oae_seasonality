@@ -1,6 +1,6 @@
 ## Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO<sub>2</sub> Air-Sea Gas Exchange and Ocean pCO<sub>2</sub> in European Waters under Low- and High-Emission Scenarios
 
-This repository accompanies this paper : Ciscato, C., Keller, D. P., Mehendale, N., Kemena, T., Avrutin, S. 2025 (submitted)
+This repository accompanies this paper : Ciscato, C., Keller, D. P., Mehendale, N., Kemena, T., Avrutin, S. 2026 (submitted)
 
 ### Overview 
 
