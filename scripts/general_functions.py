@@ -21,14 +21,12 @@ import glob
 import os
 import math
 import xesmf as xe
-
+from pypalettes import load_cmap
 
 warnings.filterwarnings('ignore')
 
-
 fm.FontProperties(family='serif', size=14)
 isns.set_context(mode="notebook", fontfamily="serif")
-
 
 def create_discrete_cmap(cmap, n):
 
@@ -40,7 +38,6 @@ def create_discrete_cmap(cmap, n):
     return discrete_cmap, norm
     
 n = 25
-
 
 def month_x_labels(ax):
     
