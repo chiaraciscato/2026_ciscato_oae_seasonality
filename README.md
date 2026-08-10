@@ -1,4 +1,4 @@
-## Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Carbon Cycle in European Waters under a Low- and a High-Emission Scenario
+## Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-Emission Scenario
 
 This repository accompanies this paper : Ciscato, C., Mehendale, N., Kemena, T., Avrutin, S., Keller, D. P. 2026 (Earth System Dynamics)
 
